@@ -2,6 +2,14 @@
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-id="digital-desire" group-title="Взрослые 18+ (ST)", Digital Desire
+#EXTVLCOPT:http-user-agent=Wink
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="brazzers-tv-europe" group-title="Взрослые 18+ (ST)", Brazzers TV Europe
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="dorcel" group-title="Взрослые 18+ (ST)", Dorcel TV HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
